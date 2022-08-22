@@ -19,9 +19,9 @@
 - Tools namespace yalnızca geliştirme aşamasında çalışır, geliştiricilere yardımcı olacak bir araç olarak düşünebiliriz. Sadece geliştirme aşamasında çalışır. Bir uygulama paketlendiğinde, tüm araç özellikleri atılır! Aşağıda bulunan kod parçasındaki gibi 
 
 
-`
-<Button
-	style="@style/Widget.Material3.Button.TextButton"
+
+
+	<Button style="@style/Widget.Material3.Button.TextButton"
 	
         android:layout_width="wrap_content"
 	
