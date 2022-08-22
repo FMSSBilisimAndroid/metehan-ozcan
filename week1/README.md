@@ -1,4 +1,4 @@
-###NameSpaces Nedir?
+### NameSpaces Nedir?
 - Genel olarak, XML namespaces, öğe, nitelik adları arasında çakışma olmaması için kullanılır. XML dosyasında kullanılırlar.
 
 
@@ -39,12 +39,14 @@
 
 - Design kısmında butonumuz mor görünür. 
 
+![1](https://user-images.githubusercontent.com/70481060/186033228-a3ec11f4-66a3-445c-b132-159173e1329f.png)
 
 
 
 - Ancak paketlenirken bu atılacağı için emülatörde buton siyah görünecektir. Bu da namespace'in farklı kullanımlarından bir örneğidir.
 
 
+![2](https://user-images.githubusercontent.com/70481060/186033245-1979f388-48d8-4a6b-b1cf-df446179c639.png)
 
 
 
