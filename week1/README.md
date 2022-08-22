@@ -21,17 +21,29 @@
 
 `<Button
         style="@style/Widget.Material3.Button.TextButton"
+	
         android:layout_width="wrap_content"
+	
         android:layout_height="wrap_content"
+	
         android:layout_alignParentBottom="true"
+	
         android:layout_centerHorizontal="true"
+	
         tools:backgroundTint="@color/purple_700"
+	
         android:backgroundTint="@color/black"
+	
         android:text="test"
+	
         android:textSize="16dp"
+	
         app:layout_constraintBottom_toTopOf="@+id/imageView"
+	
         app:layout_constraintEnd_toEndOf="parent"
+	
         app:layout_constraintStart_toStartOf="parent"
+	
         app:layout_constraintTop_toTopOf="parent" />`
 		
 - tools:backgroundTint=Purple
