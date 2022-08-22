@@ -19,10 +19,10 @@
 - Tools namespace yalnızca geliştirme aşamasında çalışır, geliştiricilere yardımcı olacak bir araç olarak düşünebiliriz. Sadece geliştirme aşamasında çalışır. Bir uygulama paketlendiğinde, tüm araç özellikleri atılır! Aşağıda bulunan kod parçasındaki gibi 
 
 
-
-
-	<Button style="@style/Widget.Material3.Button.TextButton"
-	
+	`<Button`
+		
+	`style="@style/Widget.Material3.Button.TextButton"`
+		
         android:layout_width="wrap_content"
 	
         android:layout_height="wrap_content"
@@ -45,7 +45,9 @@
 	
         app:layout_constraintStart_toStartOf="parent"
 	
-        app:layout_constraintTop_toTopOf="parent" />`
+        app:layout_constraintTop_toTopOf="parent"`
+
+
 		
 - tools:backgroundTint=Purple
 - android:backgroundTint=black olarak ayarlağında
